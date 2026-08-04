@@ -16,18 +16,10 @@
 
 <br/>
 
-<a href="https://github.com/Kashankhanzada?tab=repositories">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/kashan-ali-khan-a07880284">
-<img src="https://img.shields.io/badge/LINKEDIN-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:karachimarketing6@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Kashankhanzada">
-<img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/Kashankhanzada?tab=repositories"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kashan-ali-khan-a07880284"><img src="https://img.shields.io/badge/LINKEDIN-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:karachimarketing6@gmail.com"><img src="https://img.shields.io/badge/EMAIL-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Kashankhanzada"><img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -43,7 +35,7 @@
 
 I am a **Software Engineering student at the University of Karachi (UBIT)** with **3+ years of hands-on experience** spanning web development, IT instruction, and academic leadership. My work combines software engineering fundamentals with practical web application development and technical education.
 
-I currently serve as **Head of Department (Computer & IT) at AIMS Computer & Language Institute**, while also working as a **Cambridge Teacher for Computer Science & Islamiyat** and continuing freelance web development through **Fiverr and Upwork**. :contentReference[oaicite:0]{index=0}
+I currently serve as **Head of Department (Computer & IT) at AIMS Computer & Language Institute**, while also working as a **Cambridge Teacher for Computer Science & Islamiyat** and continuing freelance web development through **Fiverr and Upwork**.
 
 My engineering interests center around building responsive websites, modern web applications, practical software solutions, and continuously expanding my knowledge across software engineering, artificial intelligence, databases, application development, and system design.
 
@@ -101,37 +93,19 @@ My engineering interests center around building responsive websites, modern web 
 </p>
 
 <table>
-<tr>
-<td><b>Languages</b></td>
-<td>HTML5 · CSS3 · JavaScript · PHP · C · C++ · Java · Python</td>
-</tr>
-<tr>
-<td><b>Frameworks</b></td>
-<td>Bootstrap · Tailwind CSS · React JS · jQuery</td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td>MySQL · MongoDB</td>
-</tr>
-<tr>
-<td><b>Platforms</b></td>
-<td>Vercel · Firebase · Render · Apache</td>
-</tr>
-<tr>
-<td><b>Development</b></td>
-<td>VS Code · IntelliJ IDEA · PyCharm · Adobe Dreamweaver · Dev-C++ · Turbo C</td>
-</tr>
-<tr>
-<td><b>Creative</b></td>
-<td>Adobe Photoshop · Canva · Macromedia Flash · Adobe Animate</td>
-</tr>
+<tr><td><b>Languages</b></td><td>HTML5 · CSS3 · JavaScript · PHP · C · C++ · Java · Python</td></tr>
+<tr><td><b>Frameworks</b></td><td>Bootstrap · Tailwind CSS · React JS · jQuery</td></tr>
+<tr><td><b>Databases</b></td><td>MySQL · MongoDB</td></tr>
+<tr><td><b>Platforms</b></td><td>Vercel · Firebase · Render · Apache</td></tr>
+<tr><td><b>Development</b></td><td>VS Code · IntelliJ IDEA · PyCharm · Adobe Dreamweaver · Dev-C++ · Turbo C</td></tr>
+<tr><td><b>Creative</b></td><td>Adobe Photoshop · Canva · Macromedia Flash · Adobe Animate</td></tr>
 </table>
 
 ---
 
 # AI / ML Expertise
 
-My current AI background is primarily **academic**, supported by Artificial Intelligence coursework within my software engineering studies rather than a claimed professional AI/ML specialization. :contentReference[oaicite:1]{index=1}
+My current AI background is primarily **academic**, supported by Artificial Intelligence coursework within my software engineering studies rather than a claimed professional AI/ML specialization.
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -146,14 +120,12 @@ My current AI background is primarily **academic**, supported by Artificial Inte
 
 # Featured Projects
 
-> Project-level repository names, URLs, or separate project titles were not provided in the supplied README/CV. The sections below therefore represent documented professional project work without inventing repository names or unsupported metrics.
-
 <details>
 <summary><strong>Responsive Web Development — Client Projects</strong></summary>
 
 ### Responsive Web Development — Client Projects
 
-Built and maintained **5+ responsive websites** for local and international clients through freelance work on Fiverr and Upwork. Projects involved modern frontend technologies, responsive design, REST API integration, and collaboration with designers and backend teams. :contentReference[oaicite:2]{index=2}
+Built and maintained **5+ responsive websites** for local and international clients through freelance work on Fiverr and Upwork. Projects involved modern frontend technologies, responsive design, REST API integration, and collaboration with designers and backend teams.
 
 | Metric | Details |
 |---|---|
@@ -212,8 +184,6 @@ Led a UI redesign project for a technology-media client, focusing on improving t
 **AIMS Computer & Language Institute, Karachi**  
 **January 2026 – Present**
 
-Lead the Computer & IT department with responsibility for curriculum planning, staff coordination, student performance, and departmental operations. :contentReference[oaicite:3]{index=3}
-
 - Lead Computer & IT departmental operations
 - Plan and implement updated technical curricula
 - Align syllabi with industry trends and student requirements
@@ -232,8 +202,6 @@ Lead the Computer & IT department with responsibility for curriculum planning, s
 **Hazrat Shah Jahangir Academy, Karachi**  
 **August 2025 – Present**
 
-Deliver Cambridge curriculum lessons while developing structured learning resources and assessments aligned with Cambridge International standards. :contentReference[oaicite:4]{index=4}
-
 - Deliver Computer Science lessons
 - Develop lesson plans and assessments
 - Create learning materials
@@ -249,8 +217,6 @@ Deliver Cambridge curriculum lessons while developing structured learning resour
 
 **Fiverr & Upwork**  
 **June 2023 – Present**
-
-Develop responsive websites and web solutions for local and international clients, combining frontend development, API integration, performance optimisation, and UI improvement. :contentReference[oaicite:5]{index=5}
 
 - Built and maintained 5+ responsive websites
 - Developed solutions using HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS and React JS
@@ -269,8 +235,6 @@ Develop responsive websites and web solutions for local and international client
 
 **Global Computer Institute, Karachi**  
 **June 2022 – April 2026**
-
-Delivered practical IT education across office productivity, design, web development, and programming while contributing to curriculum development and project-based learning. :contentReference[oaicite:6]{index=6}
 
 - Delivered training in MS Office Suite
 - Taught Adobe Photoshop
@@ -316,21 +280,19 @@ Delivered practical IT education across office productivity, design, web develop
 - **Microsoft Excel** — 26 February 2022
 - **Microsoft Office** — 19 March 2021
 - **Certificate of Information Technology (CIT)** — 01 September 2022
-- **Diploma in Web Designing & Development** — 26 July 2025 :contentReference[oaicite:7]{index=7}
+- **Diploma in Web Designing & Development** — 26 July 2025
 
 ### Awaz Institute of Media & Management Sciences
 
 ![Academic Contribution](https://img.shields.io/badge/Certificate%20of%20Appreciation-Academic%20Contribution-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
 
-- **Certificate of Appreciation — Academic Contribution** — 23 April 2025 :contentReference[oaicite:8]{index=8}
+- **Certificate of Appreciation — Academic Contribution** — 23 April 2025
 
 ### Bahria University Computing & Innovation Society
 
 ![MERN Stack](https://img.shields.io/badge/Summer%20Bootcamp-Intro%20to%20MERN%20Stack%20Development-312E81?style=for-the-badge&logo=react&logoColor=white)
 
-- **Summer Bootcamp — Intro to MERN Stack Development** — June–August 2024 :contentReference[oaicite:9]{index=9}
-
-> AWS, Oracle, NPTEL and Cisco certifications were not listed in the supplied CV, so they are intentionally not claimed here.
+- **Summer Bootcamp — Intro to MERN Stack Development** — June–August 2024
 
 ---
 
@@ -338,21 +300,10 @@ Delivered practical IT education across office productivity, design, web develop
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LEETCODE-Profile%20Not%20Provided-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GEEKSFORGEEKS-Profile%20Not%20Provided-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HACKERRANK-Profile%20Not%20Provided-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CODECHEF-Profile%20Not%20Provided-6D28D9?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LEETCODE-Profile%20Not%20Provided-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GEEKSFORGEEKS-Profile%20Not%20Provided-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HACKERRANK-Profile%20Not%20Provided-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CODECHEF-Profile%20Not%20Provided-6D28D9?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 
 </div>
 
@@ -438,13 +389,36 @@ Open To:
   - Technical Collaboration
   - Open Source Contributions
   - Educational Technology
+```
 
-Connect:
-<div align="center"> <a href="mailto:karachimarketing6@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-karachimarketing6%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/kashan-ali-khan-a07880284"> <img src="https://img.shields.io/badge/LINKEDIN-Kashan%20Ali%20Khan-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Kashankhanzada"> <img src="https://img.shields.io/badge/GITHUB-Kashankhanzada-312E81?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://github.com/Kashankhanzada?tab=repositories"> <img src="https://img.shields.io/badge/PORTFOLIO-View%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+---
 
-Footer:
+# Connect
+
 <div align="center">
 
-"Building practical software, developing people, and continuously engineering a better future."
+<a href="mailto:karachimarketing6@gmail.com"><img src="https://img.shields.io/badge/GMAIL-karachimarketing6%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br/> <a href="https://capsule-render.vercel.app/"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:4C1D95,100:0D0221&height=130&section=footer" width="100%"/> </a> </div> ```
+<a href="https://www.linkedin.com/in/kashan-ali-khan-a07880284"><img src="https://img.shields.io/badge/LINKEDIN-Kashan%20Ali%20Khan-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://github.com/Kashankhanzada"><img src="https://img.shields.io/badge/GITHUB-Kashankhanzada-312E81?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<a href="https://github.com/Kashankhanzada?tab=repositories"><img src="https://img.shields.io/badge/PORTFOLIO-View%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+---
+
+# Footer
+
+<div align="center">
+
+**"Building practical software, developing people, and continuously engineering a better future."**
+
+<br/>
+
+<a href="https://capsule-render.vercel.app/">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:4C1D95,100:0D0221&height=130&section=footer" width="100%"/>
+</a>
+
+</div>
