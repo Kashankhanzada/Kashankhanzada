@@ -420,5 +420,5 @@ Open To:
 <a href="https://capsule-render.vercel.app/">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:4C1D95,100:0D0221&height=130&section=footer" width="100%"/>
 </a>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/> </div>
+
 </div>
