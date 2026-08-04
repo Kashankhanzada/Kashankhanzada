@@ -315,7 +315,7 @@ Led a UI redesign project for a technology-media client, focusing on improving t
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kashankhanzada&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Kashankhanzada&theme=tokyonight&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="180"/>
+<img src="[https://nirzak-streak-stats.vercel.app/](https://streak-stats.demolab.com?user=Kashankhanzada&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA)?user=Kashankhanzada&theme=tokyonight&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="180"/>
 
 <br/>
 
@@ -333,7 +333,6 @@ Led a UI redesign project for a technology-media client, focusing on improving t
 
 </div>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" /> </div>
 ---
 
 # Contribution Activity
