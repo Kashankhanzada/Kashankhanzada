@@ -2,29 +2,38 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│  KASHAN@UBIT :: ~/developer-profile                                          │
+│  KASHAN@UBIT :: ~/secure-node                                          │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│  STATUS      : ONLINE                                                         │
+│  STATUS      : ONLINE // SECURE                                                         │
 │  ROLE        : SOFTWARE ENGINEER / WEB DEVELOPER / IT EDUCATOR                │
 │  LOCATION    : KARACHI, PAKISTAN                                              │
 │  EDUCATION   : SOFTWARE ENGINEERING @ UBIT                                   │
 │  EXPERIENCE  : 3+ YEARS                                                       │
-│  MISSION     : BUILD • TEACH • IMPROVE                                        │
+│  MISSION     : BUILD • LEARN • SHIP                                        │
 │                                                                              │
 │  $ ./launch-profile --responsive --practical --impact                         │
 │  > loading developer modules...                                               │
 │  > connecting education and engineering...                                    │
 │  > building useful digital solutions...                                       │
-│  > system ready.                                                              │
+│  > system ready. stay curious.                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=850&lines=%5BOK%5D+Software+Engineering+Student+%40+UBIT;%5BOK%5D+Full-Stack+Web+Developer;%5BOK%5D+IT+Educator+%26+Academic+Leader;%5BREADY%5D+Available+for+meaningful+collaboration." alt="Terminal typing animation" /></a>
+```
+┌─ ACCESS_LOG ──────────────────────────────────────────────────────────────────┐
+│  [00:00:01] handshake accepted                                               │
+│  [00:00:02] identity verified: KASHAN@UBIT                                   │
+│  [00:00:03] green mode enabled                                               │
+│  [00:00:04] hacker aesthetic loaded                                          │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
-[![GitHub](https://img.shields.io/badge/GITHUB-Kashankhanzada-0D1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Kashankhanzada)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/kashan-ali-khan-a07880284)
-[![Email](https://img.shields.io/badge/EMAIL-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3CAC)](mailto:karachimarketing6@gmail.com)
-[![Projects](https://img.shields.io/badge/PROJECTS-Explore-0D1117?style=for-the-badge&logo=github&logoColor=FFE600)](https://github.com/Kashankhanzada?tab=repositories)
+<a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=850&lines=%5BOK%5D+Software+Engineering+Student+%40+UBIT;%5BOK%5D+Full-Stack+Web+Developer;%5BOK%5D+IT+Educator+%26+Academic+Leader;%5BREADY%5D+Available+for+meaningful+collaboration." alt="Terminal typing animation" /></a>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-Kashankhanzada-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Kashankhanzada)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/kashan-ali-khan-a07880284)
+[![Email](https://img.shields.io/badge/EMAIL-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:karachimarketing6@gmail.com)
+[![Projects](https://img.shields.io/badge/PROJECTS-Explore-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Kashankhanzada?tab=repositories)
 
 </div>
 
@@ -238,20 +247,20 @@
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kashankhanzada&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00D9FF&text_color=C9D1D9&include_all_commits=true&count_private=true" height="180" alt="GitHub statistics" />
-<img src="https://streak-stats.demolab.com?user=Kashankhanzada&hide_border=true&background=0D1117&ring=39FF14&fire=FF3CAC&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" height="180" alt="GitHub streak" />   
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashankhanzada&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&langs_count=10" height="180" alt="Top languages" />
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kashankhanzada&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050B05&title_color=00FF41&icon_color=00FF41&text_color=ADFFB5&include_all_commits=true&count_private=true" height="180" alt="GitHub statistics" />
+<img src="https://streak-stats.demolab.com?user=Kashankhanzada&hide_border=true&background=050B05&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=ADFFB5&dates=6B8F71" height="180" alt="GitHub streak" />   
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashankhanzada&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050B05&title_color=00FF41&text_color=ADFFB5&langs_count=10" height="180" alt="Top languages" />
 
 
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashankhanzada&bg_color=0D1117&color=39FF14&line=00D9FF&point=FF3CAC&area=true&hide_border=true" width="100%" alt="Contribution activity graph" /> </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashankhanzada&bg_color=050B05&color=00FF41&line=00FF41&point=00FF41&area=true&hide_border=true" width="100%" alt="Contribution activity graph" /> </div>
 
 ---
 
 ```
-┌─ 09 :: CURRENT_FOCUS ─────────────────────────────────────────────────────────┐
+┌─ 09 :: CURRENT_FOCUS // OPS ─────────────────────────────────────────────────────────┐
 │                                                                              │
 │  LEARNING                                                                    │
 │  ├─ Advanced Software Engineering                                            │
@@ -312,9 +321,9 @@
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-[![Email](https://img.shields.io/badge/EMAIL-karachimarketing6%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3CAC)](mailto:karachimarketing6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Kashan%20Ali%20Khan-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/kashan-ali-khan-a07880284)
-[![GitHub](https://img.shields.io/badge/GITHUB-Kashankhanzada-0D1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Kashankhanzada)
+[![Email](https://img.shields.io/badge/EMAIL-karachimarketing6%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:karachimarketing6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Kashan%20Ali%20Khan-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/kashan-ali-khan-a07880284)
+[![GitHub](https://img.shields.io/badge/GITHUB-Kashankhanzada-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Kashankhanzada)
 
 > **Build practical software. Develop people. Engineer a better future.**
 
