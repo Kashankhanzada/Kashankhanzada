@@ -25,6 +25,28 @@
 
 > **Software engineering student. Full-stack web developer. IT educator.**I build practical digital solutions, teach technology, and continuously turn ideas into useful products.
 
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  KASHAN@UBIT :: ~/developer-profile                                  │
+├──────────────────────────────────────────────────────────────────────┤
+│  STATUS      : ONLINE                                                │
+│  ROLE        : SOFTWARE ENGINEER / WEB DEVELOPER / IT EDUCATOR       │
+│  LOCATION    : KARACHI, PAKISTAN                                    │
+│  EXPERIENCE  : 3+ YEARS                                              │
+│  MISSION     : BUILD • TEACH • IMPROVE                               │
+│                                                                      │
+│  $ ./launch-project --responsive --practical --impact                 │
+│  > designing interfaces...                                           │
+│  > integrating APIs...                                                │
+│  > optimising performance...                                         │
+│  > ready to ship.                                                     │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
 ---
 
 ## `01` — About Me
